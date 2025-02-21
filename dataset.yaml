@@ -1,0 +1,27 @@
+train: /content/drive/MyDrive/invoicedata/dataset_yolov10/train
+val: /content/drive/MyDrive/invoicedata/dataset_yolov10/val
+test: /content/drive/MyDrive/invoicedata/dataset_yolov10/test/images
+
+names:
+    0: ชื่อผู ้ขายภาษาอังกฤษ (seller_name_eng)
+    1: หมายเลขภาษีผู ้ขาย (seller_vat_number)
+    2: วันที่ของเอกสาร (Doc_date)
+    3: คําอธิบายสินค้า(product_description)
+    4: จํานวนสินค้า(quantity_item)
+    5: ราคาสินค้า(price)
+    6: ยอดรวมก่อนภาษี (sub_total)
+    7: จํานวนเงินภาษีมูลคาเพิม (vat_amount)
+    8: ยอดรวมสุทธิ (total_due_amount)
+    9: ที่อยูผู ้ขายภาษาไทย (seller_address_thai)
+    10: ชื่อผู ้ขายภาษาไทย (seller_name_thai)
+    11: เบอร์โทรศัพท์ผู ้ขาย (seller_phone)
+    12: สาขาผู ้ขาย (seller_branch)
+    13: จํานวนเงินสวนลด (discount_amount)
+    14: ที่อยูผู ้ขายภาษาอังกฤษ (seller_address_eng)
+    15: ตาราง (Table)
+    16: เปอร์เซ็นต์ภาษีมูลคาเพิม (vat_%)
+    17: ยอดรวมสวนลด (amount_after_discount)
+    18: ชื่อผู ้ซือภาษาอังกฤษ (buyer_name_eng)
+    19: เปอร์เซ็นต์ภาษีมูลคาเพิม (vat_%)"
+    20: เปอร์เซ็นต์ภาษีหัก ณ ที่จาย (WHT_%)
+    21: จํานวนเงินภาษีหัก ณ ที่จาย (WHT_amount)

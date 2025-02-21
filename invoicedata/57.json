@@ -1,0 +1,280 @@
+{
+  "version": "5.6.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "ชื่อผู ้ขายภาษาอังกฤษ (seller_name_eng)",
+      "points": [
+        [
+          45.97916666666666,
+          53.81944444444445
+        ],
+        [
+          122.71527777777777,
+          71.52777777777779
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ราคาสินค้า(price)",
+      "points": [
+        [
+          94.24305555555554,
+          118.75
+        ],
+        [
+          120.90851735015775,
+          128.39116719242904
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "คําอธิบายสินค้า(product_description)",
+      "points": [
+        [
+          41.09779179810724,
+          119.2429022082019
+        ],
+        [
+          64.12618296529968,
+          132.49211356466878
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "วันที่ของเอกสาร (Doc_date)",
+      "points": [
+        [
+          87.64583333333331,
+          79.16666666666667
+        ],
+        [
+          126.8819444444444,
+          87.84722222222223
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ยอดรวมสุทธิ (total_due_amount)",
+      "points": [
+        [
+          92.15972222222223,
+          191.66666666666669
+        ],
+        [
+          126.1875,
+          203.81944444444446
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ราคาสินค้า(price)",
+      "points": [
+        [
+          98.19558359621453,
+          132.17665615141956
+        ],
+        [
+          122.48580441640377,
+          142.27129337539432
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ราคาสินค้า(price)",
+      "points": [
+        [
+          98.82649842271292,
+          146.6876971608833
+        ],
+        [
+          121.22397476340694,
+          155.5205047318612
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ราคาสินค้า(price)",
+      "points": [
+        [
+          101.03470031545743,
+          161.5141955835962
+        ],
+        [
+          125.32492113564666,
+          171.92429022082018
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "ราคาสินค้า(price)",
+      "points": [
+        [
+          101.35015772870662,
+          174.13249211356467
+        ],
+        [
+          122.17034700315457,
+          182.33438485804416
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "คําอธิบายสินค้า(product_description)",
+      "points": [
+        [
+          37.94321766561515,
+          134.06940063091483
+        ],
+        [
+          68.85804416403786,
+          140.06309148264984
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "คําอธิบายสินค้า(product_description)",
+      "points": [
+        [
+          39.205047318611975,
+          141.6403785488959
+        ],
+        [
+          66.64984227129338,
+          147.3186119873817
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "คําอธิบายสินค้า(product_description)",
+      "points": [
+        [
+          40.466876971608826,
+          150.1577287066246
+        ],
+        [
+          69.17350157728706,
+          154.88958990536278
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "คําอธิบายสินค้า(product_description)",
+      "points": [
+        [
+          40.466876971608826,
+          155.83596214511041
+        ],
+        [
+          80.52996845425866,
+          162.46056782334387
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "คําอธิบายสินค้า(product_description)",
+      "points": [
+        [
+          40.151419558359606,
+          176.65615141955837
+        ],
+        [
+          68.54258675078864,
+          182.9652996845426
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "คําอธิบายสินค้า(product_description)",
+      "points": [
+        [
+          39.835962145110415,
+          162.77602523659306
+        ],
+        [
+          61.91798107255519,
+          169.0851735015773
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "57.jpeg",
+  "imageData": "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",
+  "imageHeight": 300,
+  "imageWidth": 168
+}
