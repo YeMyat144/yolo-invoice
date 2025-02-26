@@ -6,7 +6,7 @@ model = YOLO("best.pt")  # pretrained YOLO11n model
  
 # Run batched inference on a list of images
 # results = model(["dataset/1.jpg", "dataset/2.jpg"])  # return a list of Results objects
-results = model([r"chinese.jpg"])  # return a list of Results objects
+results = model([r"testing\test1.jpg"])  # return a list of Results objects
  
 # Process results list
 for result in results:
