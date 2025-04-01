@@ -2,11 +2,11 @@ from ultralytics import YOLO
  
 # Load a model
 # model = YOLO("last.pt")  # pretrained YOLO11n model
-model = YOLO("best.pt")  # pretrained YOLO11n model
+model = YOLO("last.pt")  # pretrained YOLO11n model
  
 # Run batched inference on a list of images
 # results = model(["dataset/1.jpg", "dataset/2.jpg"])  # return a list of Results objects
-results = model([r"testing\test1.jpg"])  # return a list of Results objects
+results = model([r"testing\tax.jpg"])  # return a list of Results objects
  
 # Process results list
 for result in results:
